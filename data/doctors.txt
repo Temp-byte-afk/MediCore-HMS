@@ -1,0 +1,8 @@
+1,Sara Khan,Cardiology,03111234567,doc456,1500
+2,Ali Raza,Dermatology,03119876543,doc789,2000
+3,Hina Malik,Neurology,03115556677,doc321,2500
+4,Tariq,Atomology,03257878768,tariq123,2300
+5,Ryan,trauma,87878787878,ryan123,800
+6,Talha Jr,Binoculars,78787878873,talha123,1200
+7,Exele,Muscle,12345123451,exele123,5000
+8,Tale,Dream,12341234432,tale123,880

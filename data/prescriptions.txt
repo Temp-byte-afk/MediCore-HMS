@@ -1,0 +1,2 @@
+2,8,3,2,02-05-2026,Ibuprofen 200mg,Take after food
+3,10,7,6,10-05-2026,Paracetamol(500mg),Avoid Screens
