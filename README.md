@@ -171,7 +171,7 @@ Same format as `patients.txt`
 - The submission zip file must be named exactly as the roll number, for example: `22L-1234.zip`
 
 ## GitHub Repository
-Repository Link: `PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE`
+Repository Link: `https://github.com/Temp-byte-afk/MediCore-HMS/tree/main`
 
 ## Author
 Name: `Muhammad Fayyaz`  
